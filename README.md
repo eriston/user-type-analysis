@@ -1,5 +1,5 @@
 # user-type-analysis
-r script to analyze users based on aggregate information about event attendance
+R script to analyze users based on aggregate information about event attendance
 
 ## Summary
 Performs analysis on some preprocessed data and clusters the users into 4 groups, of which 2 represent over 90% of the users. The two large groups segment the customers into two primary types. Further elaboration temporarily embargoed.
